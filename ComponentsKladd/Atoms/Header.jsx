@@ -1,3 +1,4 @@
+import React from "react"
 import Styles from "./Header.module.css"
 const Header = () => {
 	return (
@@ -8,4 +9,5 @@ const Header = () => {
 }
 
 export default Header
+
 

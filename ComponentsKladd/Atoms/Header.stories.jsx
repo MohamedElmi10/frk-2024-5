@@ -1,11 +1,7 @@
-import { components } from "storybook/internal/components";
 import Header from "./Header"
 export default {
-	title: "FRK/components/atoms/Header",
+	title: "components/atoms/Header",
 	component: Header,
 }
-export const Default = {
-
-}
-
+export const Default = () => < Header />
 
